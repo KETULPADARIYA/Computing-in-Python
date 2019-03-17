@@ -1,0 +1,8 @@
+1 assignment_1 17 50 0.06
+2 assignment_2 82 95 0.14
+3 homework_1 56 70 0.18
+4 test_1 19 40 0.17
+5 test_2 16 100 0.11
+6 exam_1 4 30 0.16
+7 homework_2 6 95 0.12
+8 test_3 80 100 0.06
